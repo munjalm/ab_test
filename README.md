@@ -21,9 +21,6 @@ The scientists are using an older, command-line based system and need at least o
 of providing input and output on the terminal- they’re asking you to build the system
 accordingly. They also don’t just take your word for it when it comes to saying, “I’m
 done”, they want proof. It turns out they have designed the job as an experiment and
-
-Page 2 of 2
-
 given you a few test cases to pass and validate the output of your program.
 
 Test Cases (DD/MM/YYYY)
